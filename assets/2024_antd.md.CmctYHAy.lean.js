@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a1 as p}from"./chunks/framework.B2LAFC3B.js";const g=JSON.parse('{"title":"信息收集工具支持低版本浏览器","description":"","frontmatter":{},"headers":[],"relativePath":"2024/antd.md","filePath":"2024/antd.md"}'),e={name:"2024/antd.md"},l=p("",52),t=[l];function i(c,o,r,d,u,h){return a(),n("div",null,t)}const f=s(e,[["render",i]]);export{g as __pageData,f as default};
